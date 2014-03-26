@@ -17,6 +17,7 @@ class LevelUpCommand(sublime_plugin.TextCommand):
 				elif lastIndent > newIndent or beginningOfFile:
 					self.view.sel().clear()
 					self.view.sel().add(sublime.Region(self.view.text_point(row, newIndent)))
+					self.view.show(self.view.text_point(row, newIndent))
 					break
 			if row != 0:
 				row -= 1;
