@@ -1,0 +1,11 @@
+= Level Up
+
+== Usage
+
+This script will help you to jump to parent indentation.
+
+=== Windows & Linux
+
+CTRL + SHIFT + Q
+
+=== Mac
