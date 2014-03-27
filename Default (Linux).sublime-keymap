@@ -1,5 +1,3 @@
 [
-	{ 
-		"keys": ["ctrl+shift+q"], "command": "level_up" 
-	}
+	{ "keys": ["ctrl+shift+q"], "command": "level_up" }
 ]

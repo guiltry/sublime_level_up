@@ -4,8 +4,6 @@
 
 This script will help you to jump to parent indentation.
 
-=== Windows & Linux
+=== Shortcut
 
-CTRL + SHIFT + Q
-
-=== Mac
+ctrl + shift + q
